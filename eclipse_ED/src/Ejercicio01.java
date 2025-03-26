@@ -1,4 +1,4 @@
-
+//Modificanfo v2
 //importar escáner
 
 import java.util.Scanner;
